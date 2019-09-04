@@ -1,0 +1,57 @@
+c:\users\сергей\documents\visual studio 2010\Projects\FrequencyMeasurements\ConnectDevice\bin\Debug\ConnectDevice.dll
+c:\users\сергей\documents\visual studio 2010\Projects\FrequencyMeasurements\ConnectDevice\bin\Debug\ConnectDevice.pdb
+c:\users\сергей\documents\visual studio 2010\Projects\FrequencyMeasurements\ConnectDevice\obj\Debug\ConnectDevice.dll
+c:\users\сергей\documents\visual studio 2010\Projects\FrequencyMeasurements\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Анна\Desktop\FrequencyMeasurements\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Анна\Desktop\FrequencyMeasurements\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Анна\Desktop\FrequencyMeasurements\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Анна\Desktop\FrequencyMeasurements\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ConnectDevice\obj\Debug\ConnectDevice.pdb
+K:\FrequencyMeasurements\ConnectDevice\bin\Debug\ConnectDevice.dll
+K:\FrequencyMeasurements\ConnectDevice\bin\Debug\ConnectDevice.pdb
+K:\FrequencyMeasurements\ConnectDevice\obj\Debug\ConnectDevice.dll
+K:\FrequencyMeasurements\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Анна\Desktop\FrequencyMeasurement(version2.1)\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Анна\Desktop\FrequencyMeasurement(version2.1)\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Анна\Desktop\FrequencyMeasurement(version2.1)\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Анна\Desktop\FrequencyMeasurement(version2.1)\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version2.2)\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version2.2)\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version2.2)\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version2.2)\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version2.2)\ConnectDevice\obj\Debug\ConnectDevice.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version2.2)\ConnectDevice\obj\Debug\ConnectDevice.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version2.2)\ConnectDevice\obj\Debug\ConnectDevice.csproj.CopyComplete
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Анна\Desktop\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Анна\Desktop\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Анна\Desktop\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Анна\Desktop\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Анна\Desktop\Прога(бакалавр)\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Анна\Desktop\Прога(бакалавр)\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Анна\Desktop\Прога(бакалавр)\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Анна\Desktop\Прога(бакалавр)\FrequencyMeasurements\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements(10.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements(10.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements(10.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\FrequencyMeasurements(10.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements(10.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements(11.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\FrequencyMeasurements(11.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements(11.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\obj\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements(11.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements(11.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements(11.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\WriteDataToFileLib.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements(11.04.19)\FrequencyMeasurement(version3.0)\ConnectDevice\bin\Debug\WriteDataToFileLib.pdb

@@ -1,0 +1,14 @@
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\bin\Release\MainForm.exe
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\bin\Release\MainForm.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\bin\Release\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\bin\Release\Math.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\bin\Release\ReadWriteFile.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\bin\Release\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\bin\Release\Math.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\bin\Release\ReadWriteFile.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\obj\x86\Release\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\obj\x86\Release\MainForm.MainForm.resources
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\obj\x86\Release\MainForm.Properties.Resources.resources
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\obj\x86\Release\MainForm.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\obj\x86\Release\MainForm.exe
+C:\Users\Сергей\Desktop\FrequencyMeasurements\MainForm\obj\x86\Release\MainForm.pdb

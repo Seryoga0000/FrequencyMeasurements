@@ -1,0 +1,4 @@
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ConnectDevice\bin\Release\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ConnectDevice\bin\Release\ConnectDevice.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ConnectDevice\obj\Release\ConnectDevice.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ConnectDevice\obj\Release\ConnectDevice.pdb

@@ -1,0 +1,4 @@
+C:\Users\Анна\Desktop\FrequencyMeasurements\Math\bin\Debug\Math.dll
+C:\Users\Анна\Desktop\FrequencyMeasurements\Math\bin\Debug\Math.pdb
+C:\Users\Анна\Desktop\FrequencyMeasurements\Math\obj\Debug\Math.dll
+C:\Users\Анна\Desktop\FrequencyMeasurements\Math\obj\Debug\Math.pdb

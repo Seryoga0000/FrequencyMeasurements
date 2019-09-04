@@ -1,0 +1,4 @@
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ReadWriteFile\bin\Release\ReadWriteFile.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ReadWriteFile\bin\Release\ReadWriteFile.pdb
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ReadWriteFile\obj\Release\ReadWriteFile.dll
+C:\Users\Сергей\Desktop\FrequencyMeasurements\ReadWriteFile\obj\Release\ReadWriteFile.pdb
